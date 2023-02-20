@@ -100,4 +100,4 @@
 # b. Bitwise OR (|)
 
 
-# ANSWER TO QUESTION FOUR (4) IS 1
+# ANSWER TO QUESTION FOUR (4) IS 1, 8, 15
